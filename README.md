@@ -233,10 +233,6 @@ project-root/
 git clone https://github.com/rahulrahu15/Serverless-Face-Recognition-Attendance.git
 ```
 
-```bash
-cd YOUR-REPOSITORY-NAME
-```
-
 ---
 
 # Install Dependencies
